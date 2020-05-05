@@ -3,7 +3,6 @@ package kudo
 import (
 	"strconv"
 
-	"github.com/klebervirgilio/vue-crud-app-with-golang/pkg/core"
 	"github.com/markoo/kudo-oos/pkg/core"
 )
 
