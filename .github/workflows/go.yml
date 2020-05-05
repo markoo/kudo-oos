@@ -35,5 +35,5 @@ jobs:
         cd cmd
         go build -v .
 
-    - name: Test
-      run: go test -v .
+    # no tests for now - name: Test
+    #                    run: go test -v .
